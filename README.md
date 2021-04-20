@@ -2,7 +2,7 @@
 <h3 align="center">Discovering the world of coding, and finding it a bit astonishing!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=architkapoor13&label=Profile%20views&color=9948db&style=flat" alt="architkapoor13" /> </p>
-![Visitor Count](https://profile-counter.glitch.me/{Architkapoor13}/count.svg)
+<p align="left"> <img src="https://profile-counter.glitch.me/{Architkapoor13}/count.svg" alt="architkapoor13" /> </p>
 
 - 👯 I’m looking to collaborate on **Web dev(Django), ML Projects**
 
